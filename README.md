@@ -1,5 +1,5 @@
 # Landing page Duck me.
-* Lien Heroku.
+* Lien Heroku:
 https://desolate-stream-62505.herokuapp.com/
 
 * Fonctionnel.
