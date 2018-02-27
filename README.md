@@ -1,24 +1,13 @@
-# README
+# landing page Duck me 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* fonctionel 
+* a faire active button image
+* a faire pading button image
 
-Things you may want to cover:
+* a faire lien vers le site
 
-* Ruby version
+* projet fait en duo
 
-* System dependencies
+* Sabine au js
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Roman au front
