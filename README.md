@@ -1,15 +1,14 @@
-# landing page Duck me 
-
+# Landing page Duck me.
+* Lien Heroku.
 https://desolate-stream-62505.herokuapp.com/
 
-* fonctionel 
-* a faire active button image
-* a faire pading button image
+* Fonctionnel.
+* A faire active button image.
+* A faire pading button image.
 
-* a faire lien vers le site
+* A faire lien vers le site.
 
-* projet fait en duo
+* Projet Réalisé en duo.
+* Sabine et Roman au js et front.
 
-* Sabine au js
-
-* Roman au front
+* Coder avec Ruby on Rails.
