@@ -3,6 +3,7 @@
 https://desolate-stream-62505.herokuapp.com/
 
 * Fonctionnel.
+* A faire active fuction button image.
 * A faire active button image.
 * A faire pading button image.
 
